@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding-top: 20px;
+    background-image: url(assets/img/trunk-182866_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    height: 200px;
+    border-bottom: 5px solid black;
+    font-size: 40px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    background-image: url(assets/img/light-brown-wooden-textured-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    height: 600px;
+}
+
+footer{
+    padding-top: 20px;
+    background-image: url(assets/img/trunk-182866_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    height: 200px;
+    border-top: 5px solid black;
+}
+
+.caja{
+    padding: 50px;
+    background-color: white;
+    margin: 50px;
+    size: 100%;
+    border-radius: 20px;
+    box-shadow: -1px -1px 29px 12px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px -1px 29px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px -1px 29px 12px rgba(0,0,0,0.75);
+}
+
+.icono{
+    padding-top: 50px;
+    display: flex;
+    justify-content: right;
+}
+
+h1 {
+    -webkit-text-stroke: 1px black;
+    font-family: arial; color: white;
+   }
+   

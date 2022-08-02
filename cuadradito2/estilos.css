@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    background-color: rgb(0, 21, 66);
+    border-bottom: 10px solid black;
+    color: white;
+}
+
+.color{
+    color: white;
+    background-color: blue;
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}
+.color1{
+    color: white;
+    background-color: rgb(30, 30, 255);
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}
+.color2{
+    color: white;
+    background-color: rgb(60, 60, 255);
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}
+.color3{
+    color: white;
+    background-color: rgb(90, 90, 255);
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}
+.color4{
+    color: white;
+    background-color: rgb(120, 120, 255);
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}
+.color5{
+    color: white;
+    background-color: rgb(150, 150, 255);
+    height: 1000px;
+    width: 16.66%;
+    float: left;
+    text-align: center;
+}

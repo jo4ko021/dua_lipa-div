@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(143, 172, 253);
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.negro{
+    padding: 50px;
+    background-color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    height: 600px;
+}
+.azul{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    size: 250px;
+    background-color: blue;
+    height: 90%;
+}
+.gris{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    size: 200px;
+    background-color: grey;
+    height: 85%;
+}
+.celeste{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    size: 150px;
+    background-color: lightblue;
+    height: 80%;
+}
+.aqua{
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 70px;
+    size: 100px;
+    background-color: aqua;
+    height: 75%;
+}
